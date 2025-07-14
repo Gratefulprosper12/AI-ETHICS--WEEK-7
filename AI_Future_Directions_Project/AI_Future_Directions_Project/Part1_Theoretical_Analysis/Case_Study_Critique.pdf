@@ -1,1 +1,24 @@
-This is a placeholder for Case_Study_Critique.pdf.
+Analyze: How does integrating AI with IoT improve urban sustainability?
+Identify two challenges (e.g., data security).
+
+Answer:
+Integrating Artificial Intelligence (AI) with the Internet of Things (IoT) in smart cities creates a highly responsive, data-driven environment that improves urban sustainability across several dimensions: transportation, energy, waste management, air quality, and public safety.
+
+In traffic management, AI-IoT systems combine real-time sensor data (e.g., from traffic lights, road cameras, GPS) with machine learning algorithms to predict congestion patterns, optimize signal timings, and suggest alternate routes to drivers. This reduces traffic jams, lowers vehicle emissions, and improves fuel efficiency—key factors for environmental sustainability.
+
+Beyond traffic, smart lighting systems powered by AI can dim or turn off lights when no movement is detected, conserving energy. Water supply and waste collection can also be optimized based on usage patterns, minimizing resource waste.
+
+Challenges:
+Data Security and Privacy
+
+With billions of data points collected from urban dwellers’ movements, transactions, and habits, there's a high risk of breaches, surveillance overreach, or misuse.
+
+Ensuring end-to-end encryption, secure edge processing, and privacy regulations (e.g., GDPR compliance) is essential.
+
+Interoperability and Infrastructure Integration
+
+Urban environments often consist of legacy systems, siloed infrastructure, and incompatible devices.
+
+Integrating diverse data streams into a unified AI-IoT platform requires standardization, robust APIs, and city-wide governance strategies.
+
+By overcoming these challenges, AI-IoT systems can play a central role in creating sustainable, livable, and resilient smart cities.
