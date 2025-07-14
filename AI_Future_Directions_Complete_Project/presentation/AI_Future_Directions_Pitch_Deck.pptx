@@ -1,1 +1,101 @@
-Placeholder for pitch deck
+Title:
+Intelligent Frontiers: Merging Edge, IoT, and Quantum for a Smarter Future
+
+Subtitle:
+Exploring Emerging AI Trends for Sustainable Innovation
+
+Presented by: Grateful Juma
+Course: AI Future Directions
+Date: July 2025
+
+Slide 2: Introduction
+What is this project about?
+
+A multi-dimensional exploration of cutting-edge AI technologies
+
+Combines Edge AI, AI-IoT, Quantum AI, and Human-AI collaboration
+
+Focused on practical, ethical, and futuristic applications
+
+Slide 3: Problem Statements
+Why this matters
+
+Centralized AI has privacy and latency limitations
+
+Agriculture needs predictive tools to combat climate challenges
+
+Medical AI lacks representation and fairness
+
+Ocean pollution requires large-scale smart automation
+
+Slide 4: Edge AI Prototype
+Solution 1: Lightweight Image Classifier
+
+MobileNetV2 model trained to classify recyclable items
+
+Deployed using TensorFlow Lite for real-time edge inference
+
+Benefits: low latency, offline use, improved data privacy
+
+📈 Accuracy: ~92%
+🛠 Tools: TensorFlow, Google Colab
+
+Slide 5: AI-Driven IoT in Agriculture
+Solution 2: Smart Farming System
+
+Sensors: Soil moisture, temperature, light, humidity
+
+AI Model: Multivariate regression for yield prediction
+
+Data flow: Sensor → Edge device → Cloud AI → Farmer dashboard
+
+🌿 Goal: Sustainable, efficient agriculture with real-time insights
+
+Slide 6: Personalized Medicine & Ethics
+Solution 3: Bias Mitigation in Genomic AI
+
+Challenge: Underrepresentation of ethnic groups in TCGA
+
+Strategy: Diverse datasets, bias audits, federated learning
+
+Outcome: Fairer AI treatment recommendations for all
+
+Slide 7: Futuristic Vision
+Solution 4: AI Ocean Cleanup Swarms (2030)
+
+Autonomous AI drones detect and remove ocean plastics
+
+Navigation via reinforcement learning and CNNs
+
+Risk: Energy use, trust, AI accountability
+
+Benefit: Scalable marine ecosystem restoration 🌊
+
+Slide 8: Quantum Simulation (Bonus)
+Solution 5: Quantum Circuit Optimization
+
+Built 2-qubit circuit (Hadamard + CNOT + Measurement)
+
+Application: Drug discovery, portfolio optimization
+
+Tool: IBM Qiskit simulator
+
+⚛️ A step toward quantum-enhanced AI systems
+
+Slide 9: Key Takeaways
+Edge AI = Fast, private, efficient
+
+AI-IoT = Sustainable agriculture
+
+Ethics = AI for everyone
+
+Quantum = Future-ready optimization
+
+🧠 Innovation thrives when AI is inclusive, responsible, and visionary
+
+Slide 10: Thank You
+Questions?
+
+📩 Email: [your email]
+🌐 GitHub: [your GitHub repo link]
+🧠 “The future is in your code.”
